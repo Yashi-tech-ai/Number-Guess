@@ -11,3 +11,5 @@ This is a small terminal-based game where the computer picks a random number and
 - The computer selects a number between a fixed range (e.g., 1 to 100)
 - You keep guessing until you get it right!
 - Hints like "Too high!" or "Too low!" guide you.
+
+ps >> 💬 I'm still learning! Feedback or suggestions are always welcome. :)
